@@ -19,5 +19,8 @@
   "homepage": "https://github.com/flyhighair/zenn-contents#readme",
   "devDependencies": {
     "zenn-cli": "^0.1.79"
+  },
+  "volta": {
+    "node": "16.0.0"
   }
 }
