@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/flyhighair/zenn-contents#readme",
   "devDependencies": {
-    "textlint": "^11.9.0",
-    "textlint-rule-preset-ja-technical-writing": "^6.0.0",
-    "zenn-cli": "^0.1.79"
+    "textlint": "11.9.0",
+    "textlint-rule-preset-ja-technical-writing": "6.0.0",
+    "zenn-cli": "0.1.79"
   },
   "volta": {
     "node": "16.0.0"
