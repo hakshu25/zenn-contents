@@ -16,7 +16,7 @@ jobs:
       - name: Set node version
         id: node-version
         run: echo "::set-output name=node::$(node -v)"
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ steps.node-version.outputs.node }}-${{ hashFiles('package-lock.json') }}
