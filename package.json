@@ -20,7 +20,7 @@
   "devDependencies": {
     "textlint": "12.2.3",
     "textlint-rule-preset-ja-technical-writing": "7.0.0",
-    "zenn-cli": "0.1.131"
+    "zenn-cli": "0.1.132"
   },
   "volta": {
     "node": "16.18.1"
