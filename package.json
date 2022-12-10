@@ -4,7 +4,8 @@
   "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide) * [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)",
   "main": "index.js",
   "scripts": {
-    "textlint": "textlint articles/*.md books/*.md"
+    "textlint": "textlint articles/*.md books/*.md",
+    "preview": "zenn preview"
   },
   "repository": {
     "type": "git",
