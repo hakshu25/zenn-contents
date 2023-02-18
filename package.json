@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/flyhighair/zenn-contents#readme",
   "devDependencies": {
-    "textlint": "13.2.0",
+    "textlint": "13.3.0",
     "textlint-rule-preset-ja-technical-writing": "7.0.0",
     "zenn-cli": "0.1.140"
   },
