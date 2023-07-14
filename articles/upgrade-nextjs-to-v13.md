@@ -10,7 +10,7 @@ published: true
 
 ## アップグレードしたリポジトリとサイト
 
-https://github.com/flyhighair/hakshu.dev
+https://github.com/hakshu25/hakshu.dev
 https://hakshu-dev.vercel.app/
 
 ## Next.js v13 の変更サマリー[^1]
