@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyhighair/zenn-contents.git"
+    "url": "git+https://github.com/hakshu25/zenn-contents.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flyhighair/zenn-contents/issues"
+    "url": "https://github.com/hakshu25/zenn-contents/issues"
   },
-  "homepage": "https://github.com/flyhighair/zenn-contents#readme",
+  "homepage": "https://github.com/hakshu25/zenn-contents#readme",
   "devDependencies": {
     "textlint": "13.3.3",
     "textlint-rule-preset-ja-technical-writing": "7.0.0",
