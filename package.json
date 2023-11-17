@@ -22,8 +22,5 @@
     "textlint": "13.3.3",
     "textlint-rule-preset-ja-technical-writing": "8.0.0",
     "zenn-cli": "0.1.148"
-  },
-  "volta": {
-    "node": "20.9.0"
   }
 }
