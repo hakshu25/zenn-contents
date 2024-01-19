@@ -21,6 +21,6 @@
   "devDependencies": {
     "textlint": "13.4.1",
     "textlint-rule-preset-ja-technical-writing": "10.0.1",
-    "zenn-cli": "0.1.150"
+    "zenn-cli": "0.1.151"
   }
 }
