@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/hakshu25/zenn-contents#readme",
   "devDependencies": {
-    "textlint": "14.0.2",
+    "textlint": "14.0.3",
     "textlint-rule-preset-ja-technical-writing": "10.0.1",
     "zenn-cli": "0.1.153"
   }
