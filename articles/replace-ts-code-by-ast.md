@@ -168,7 +168,7 @@ https://ts-ast-viewer.com/
 
 このツールに TypeScript のコードを入力すると以下のように AST が可視化されるので、対象箇所が AST 上でどのように表現されているかを確認できます。
 
-![](/images/replace-ts-code-by-ast/ts-ast-viewer-sample.png)
+![TypeScript AST Viewer](/images/replace-ts-code-by-ast/ts-ast-viewer-sample.png)
 
 まず、`@storybook/react` の `import` 文、AST 上では `ImportDeclaration` として表現されるものを取得します。
 その `NamedImports` 部分に `Meta` を追加します。
