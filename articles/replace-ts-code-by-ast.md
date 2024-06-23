@@ -198,7 +198,6 @@ sourceFiles.forEach((sourceFile) => {
 ChatGPT や GitHub Copilot でサンプルコードを生成して試していくのが効率的ですが、AST に対応するメソッドを探す場合は以下の詳細ページが参考になります。
 https://ts-morph.com/details/index
 
-
 ```typescript
 const getDefaultExportObject = (sourceFile: SourceFile): ObjectLiteralExpression | undefined => {
   const defaultExport = sourceFile.getDefaultExportSymbol();
